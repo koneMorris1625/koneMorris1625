@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 <!-- If you're using the "columns" display mode 
 <img src="https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg" alt="Metrics" width="100%"> -->
 
+![Metrics](https://github.com/koneMorris1625/koneMorris1625/blob/main/metrics.plugin.wakatime.svg)
+![Metrics](https://github.com/koneMorris1625/koneMorris1625/blob/main/metrics.plugin.isocalendar.svg)
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/koneMorris1625/koneMorris1625/blob/main/github-metrics.svg)
-
-![Metrics](https://github.com/koneMorris1625/koneMorris1625/blob/main/metrics.plugin.wakatime.svg)
-
-![Metrics](https://github.com/koneMorris1625/koneMorris1625/blob/main/metrics.plugin.isocalendar.svg)
