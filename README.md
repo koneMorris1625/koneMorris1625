@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![wakatime](https://wakatime.com/badge/user/ed18eebe-3913-44d8-85cc-a0455d3472d8.svg)](https://wakatime.com/@ed18eebe-3913-44d8-85cc-a0455d3472d8)
+
 <!-- If you're using the "columns" display mode 
 <img src="https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg" alt="Metrics" width="100%"> -->
 ![Metrics](https://github.com/koneMorris1625/koneMorris1625/blob/main/metrics.plugin.isocalendar.svg)
